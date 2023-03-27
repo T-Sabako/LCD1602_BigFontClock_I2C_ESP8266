@@ -1,5 +1,4 @@
-# Arduino(ESP8266) + I2C LCD 1602
-# Large Font Clock
+# Arduino(ESP8266) + I2C LCD 1602 Large Font Clock
 
 Reference font character
   https://www.instructables.com/Custom-Large-Font-For-16x2-LCDs/
