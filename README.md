@@ -1,18 +1,19 @@
 # Arduino(ESP8266) + I2C LCD 1602 Large Font Clock
 
-Reference font character
+**Reference font character**
 
   https://www.instructables.com/Custom-Large-Font-For-16x2-LCDs/
   
-LCD Custom Character Generator
+**LCD Custom Character Generator**
 
   https://maxpromer.github.io/LCD-Character-Creator/
 
-ミニドット絵メーカー３
+**ミニドット絵メーカー３**
 
   https://neutralx0.net/tools/dot3/
 
-Libraries
+
+**Libraries**
 
   LiquidCrystal_I2C.h
   
