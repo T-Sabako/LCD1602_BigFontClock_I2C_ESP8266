@@ -1,4 +1,4 @@
-# Arduino(ESP8266) + I2C LCD 1602 Large Font Clock
+# WeMos D1 mini(ESP8266) + I2C LCD 1602 Large Font Clock
 
 **Reference font character**
 
